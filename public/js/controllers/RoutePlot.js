@@ -1,3 +1,3 @@
-angular.module('Maps', [])app.controller('RoutePlot', ['$scope', function($scope){
+angular.module('Maps', [])app.controller('RoutePlot', function($scope){
 
-}]);
+});

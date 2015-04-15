@@ -1,3 +1,3 @@
-angular.module('Login', [])app.controller('LoginSetup', ['$scope', function($scope){
+angular.module('Login', [])app.controller('LoginSetup', function($scope){
 
-}]);
+});

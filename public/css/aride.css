@@ -57,6 +57,9 @@
   background-size: cover;
   -o-background-size: cover;
 }
+.container {
+  width: 100%;
+}
 growl-notifications {
   position: fixed;
   top: 150px;

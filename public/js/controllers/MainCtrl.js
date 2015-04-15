@@ -1,5 +1,10 @@
-angular.module('MainCtrl', []).controller('MainController', function($scope) {
+app.controller('MainCtrl', function($scope, UserStatus) {
 
-    $scope.tagline = 'To the moon and back!';   
+  $scope.user = UserStatus.getUser();
+
+  $scope.setUser = function(u){
+    $scope.user = u;
+    UserStatus.setUser(u);
+  }
 
 });

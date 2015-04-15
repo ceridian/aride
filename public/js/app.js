@@ -1,1 +1,1 @@
-angular.module('sampleApp', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService']);
+var app = angular.module('aride', ['ngRoute', 'appRoutes', 'ngAnimate', 'growlNotifications' 'UserStatus']);

@@ -46,7 +46,7 @@
 .intro {
   height: 400px;
   text-align: center;
-  backgroud: url(./img/top.gif);
+  backgroud: url(/img/top.gif);
 }
 growl-notifications {
   position: fixed;

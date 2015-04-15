@@ -20,4 +20,4 @@ angular.module('UserService', []).factory('UserStatus', ['$rootScope', function(
 			$rootScope.user = value;
 		}
 	}
-});
+}]);

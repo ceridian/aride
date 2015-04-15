@@ -1,3 +1,3 @@
-angular.module('plot', [])app.controller('RoutePlot', ['$scope', function($scope){
+angular.module('aride', [])app.controller('RoutePlot', ['$scope', function($scope){
 
 }]);

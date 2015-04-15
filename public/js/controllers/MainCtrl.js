@@ -1,4 +1,4 @@
-angular.module('mc', []).controller('MainCtrl', function($scope, UserStatus) {
+angular.module('aride', []).controller('MainCtrl', function($scope, UserStatus) {
 
   $scope.user = UserStatus.getUser();
 

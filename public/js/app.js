@@ -1,1 +1,1 @@
-angular.module('aride', ['ngRoute', 'appRoutes', 'ngAnimate', 'growlNotifications', 'LandingPage', 'UserService', 'Maps', 'Login']);
+angular.module('aride', ['ngRoute', 'appRoutes', 'growlNotifications', 'LandingPage', 'UserService', 'Maps', 'Login']);

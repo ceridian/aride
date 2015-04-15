@@ -1,3 +1,3 @@
-app.controller('HomePage', ['$scope', function($scope){
+angular.module('home', []).controller('HomePage', ['$scope', function($scope){
 	console.log('home');
 } ]);

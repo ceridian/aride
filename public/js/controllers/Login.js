@@ -1,3 +1,3 @@
-angular.module('aride', [])app.controller('Login', ['$scope', function($scope){
+angular.module('Login', [])app.controller('LoginSetup', ['$scope', function($scope){
 
 }]);

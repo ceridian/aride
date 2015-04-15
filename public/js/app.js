@@ -1,1 +1,1 @@
-var app = angular.module('aride', ['ngRoute', 'appRoutes', 'ngAnimate', 'growlNotifications' 'UserStatus']);
+var app = angular.module('aride', ['ngRoute', 'appRoutes', 'ngAnimate', 'growlNotifications' 'UserStatus', 'LandingPage', 'UserService', 'Maps', 'Login']);

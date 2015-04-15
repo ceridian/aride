@@ -1,4 +1,4 @@
-app.service('UserStatus', function(){
+angular.module('UserService').service('UserStatus', function(){
 	var user = false;
 	return {
 		getUser: function(){

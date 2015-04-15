@@ -1,3 +1,3 @@
-angular.module('aride', []).controller('HomePage', ['$scope', function($scope){
+angular.module('LandingPage', []).controller('HomePage', ['$scope', function($scope){
 	console.log('home');
 } ]);

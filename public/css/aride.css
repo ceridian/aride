@@ -50,8 +50,7 @@
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(../img/top.gif) no-repeat bottom center scroll;
-  background-color: #000;
+  background-color: #1f2e60;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -59,6 +58,9 @@
 }
 .container {
   width: 100%;
+}
+.brand-heading {
+  font-size: 100px;
 }
 growl-notifications {
   position: fixed;

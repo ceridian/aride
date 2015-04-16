@@ -58,7 +58,7 @@
   -o-background-size: cover;
 }
 .brand-heading {
-  background-color: #1f2e60;
+  background-color: (31,46,96,.5);
   border: 1px solid;
   border-radius: 15px;
 }

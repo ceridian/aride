@@ -57,6 +57,11 @@
   background-size: cover;
   -o-background-size: cover;
 }
+.brand-heading {
+  background-color: #1f2e60;
+  border: 1px solid;
+  border-radius: 15px;
+}
 .container {
   width: 100%;
 }
